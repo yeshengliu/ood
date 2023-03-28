@@ -1,3 +1,5 @@
+package parking;
+
 public class Row {
   private int numUnitSpotsPerRow;
   private boolean[] unitSpots;

@@ -1,3 +1,5 @@
+package parking;
+
 import java.util.List;
 
 public class Level {

@@ -1,3 +1,6 @@
+package parking;
+
+import Restaurant.Receipt;
 import java.time.LocalDateTime;
 
 public class Parking {

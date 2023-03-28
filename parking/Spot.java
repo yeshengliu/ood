@@ -1,3 +1,5 @@
+package parking;
+
 public class Spot {
   private int level;
   private int row;

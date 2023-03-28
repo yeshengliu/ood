@@ -1,3 +1,5 @@
+package parking;
+
 public class Motorcycle extends Vehicle {
 
   public Motorcycle() {

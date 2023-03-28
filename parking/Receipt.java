@@ -1,3 +1,5 @@
+package parking;
+
 import java.time.LocalDateTime;
 
 public class Receipt {

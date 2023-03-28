@@ -1,3 +1,5 @@
+package parking;
+
 public class Vehicle {
   protected VehicleSize size;
 
